@@ -1,0 +1,1 @@
+Face biometric inspector is aimed to create platform for evaluation various face recognition algorithms. Currently it's possible to create simple database of person and to do simple  classification based on sparse representation.
